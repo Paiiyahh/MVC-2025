@@ -1,0 +1,11 @@
+# id,title,description,companyId,deadline(YYYY-MM-DD),status,type
+20000001,Software Engineer,Develop web apps,10000001,2025-12-31,open,Normal
+20000002,Backend Developer,API and services,10000001,2025-11-30,open,Normal
+20000003,Frontend Developer,UI work,10000002,2025-10-15,open,Normal
+20000004,Data Analyst,Analyze datasets,10000002,2025-09-30,open,Normal
+20000005,Co-op Software,Internship position,10000001,2025-10-01,open,Coop
+20000006,Co-op Data,Internship for data role,10000002,2025-10-10,open,Coop
+20000007,DevOps Engineer,CI/CD and infra,10000001,2025-12-01,open,Normal
+20000008,QA Engineer,Testing automation,10000002,2025-11-15,open,Normal
+20000009,Mobile Developer,iOS/Android apps,10000001,2025-10-20,open,Normal
+20000010,Research Intern,Research tasks,10000002,2025-09-25,open,Coop
